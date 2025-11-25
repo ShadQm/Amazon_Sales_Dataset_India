@@ -1,4 +1,4 @@
-# Amazon Sales Analysis Dashboard
+# Amazon Sales (India) Analysis Using Python
 
 ## Overview
 This project analyzes Amazon sales data to provide insights into order trends, product distribution, courier status, and regional sales performance. The analysis is performed using **Python**, **Pandas**, **Matplotlib**, and **Seaborn**.
